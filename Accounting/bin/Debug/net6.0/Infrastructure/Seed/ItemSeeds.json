@@ -1,0 +1,78 @@
+[
+  {
+    "Name": "現金業績",
+    "Positive": true,
+    "Order": 1
+  },
+  {
+    "Name": "給豐原",
+    "Positive": true,
+    "Order": 2
+  },
+  {
+    "Name": "給台中",
+    "Positive": true,
+    "Order": 3
+  },
+  {
+    "Name": "給台北",
+    "Positive": true,
+    "Order": 4
+  },
+  {
+    "Name": "給彰化",
+    "Positive": true,
+    "Order": 5
+  },
+  {
+    "Name": "原料",
+    "Positive": false,
+    "Order": 6
+  },
+  {
+    "Name": "包裝",
+    "Positive": false,
+    "Order": 7
+  },
+  {
+    "Name": "代銷售",
+    "Positive": false,
+    "Order": 8
+  },
+  {
+    "Name": "其他",
+    "Positive": false,
+    "Order": 9
+  },
+  {
+    "Name": "薪資",
+    "Positive": false,
+    "Order": 10
+  },
+  {
+    "Name": "勞健保",
+    "Positive": false,
+    "Order": 11
+  },
+  {
+    "Name": "房租",
+    "Positive": false,
+    "Order": 12
+  },
+  {
+    "Name": "水電",
+    "Positive": false,
+    "Order": 13
+  },
+  {
+    "Name": "稅",
+    "Positive": false,
+    "Order": 14
+  },
+  {
+    "Name": "其他成本",
+    "Positive": false,
+    "Order": 15
+  }
+
+]
